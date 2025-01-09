@@ -31,7 +31,7 @@ Below is the output of the script:
     cd 2024-inflation-graph
 
 3. Install the required dependencies:
-    pip install -r requirements.txt
+    pip install pandas matplotlib
 
 4. Run the script:
     python inflation_script.py
