@@ -20,10 +20,18 @@ This project visualizes the relationship between the **U.S. Inflation Rate Year-
 
 Below is the output of the script:
 
-![Graph Output](Screenshot%202025-01-08%20at%205.02.55%20PM.png)
+![Graph Output](screenshot-1.png)
 
 ## Usage
 
 1. Clone the repository:
-   bash
-   git clone https://github.com/Craig-HGP/2024-inflation-graph.git
+    git clone https://github.com/Craig-HGP/2024-inflation-graph.git
+
+2. Navigate to the project directory:
+    cd 2024-inflation-graph
+
+3. Install the required dependencies:
+    pip install -r requirements.txt
+
+4. Run the script:
+    python inflation_script.py
